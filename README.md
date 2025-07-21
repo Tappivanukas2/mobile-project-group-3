@@ -1,1 +1,1 @@
-Co-authors Karo Saartinen, Kiia Silvonen, Nida Cinar.
+Co-authors Karo Saarinen, Kiia Silvonen, Nida Cinar.
